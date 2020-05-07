@@ -11,7 +11,7 @@ permalink: /maps/main/
 
 Camp has been disrupted by the Biggest Zombie Assault EVER. Camp as we know it is NO MORE!! To solve the weeklong mystery, find true love, and save the world, campers will have to work together and in teams to solve various puzzles and adventures throughout the week!
 
-To start, use your arrow keys to navigate through this "Main Map of Camp" (check the bottom right corner to see what directions are available from this tile of the map)! To see the entire map, press Escape!
+##### Use your arrow keys to navigate through this map -- check the bottom right corner to see what directions are available from this tile of the map). To see the entire map, press Escape!
 
 [Return to AICL 2020 homepage](/)
 
